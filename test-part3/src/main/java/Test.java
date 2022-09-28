@@ -9,6 +9,7 @@ public class Test {
     private static String F2 = "f";
     private static String F3 = "f";
     private static String F4 = "f";
+    private static String F5 = "f";
     // dddd
     // test
     // aaa
